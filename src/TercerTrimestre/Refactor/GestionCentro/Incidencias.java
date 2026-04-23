@@ -1,4 +1,4 @@
-package src.Refactor.GestionCentro;
+package src.TercerTrimestre.Refactor.GestionCentro;
 
 public class Incidencias {
     private String tipo;

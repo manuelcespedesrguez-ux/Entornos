@@ -1,5 +1,3 @@
-package src.Refactor.EjerciciosSol;
-
 import java.util.HashMap;
 import java.util.Map;
 

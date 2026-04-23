@@ -1,5 +1,3 @@
-package src.Refactor.EjerciciosSol;
-
 public class Pedido {
 
     private static final double DESCUENTO_VIP = 0.8;

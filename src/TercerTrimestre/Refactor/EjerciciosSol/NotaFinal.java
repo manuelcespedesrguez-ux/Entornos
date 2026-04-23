@@ -1,5 +1,3 @@
-package src.Refactor.EjerciciosSol;
-
 public class NotaFinal {
     
     private static final double nota_aprobado = 5.0;

@@ -1,5 +1,3 @@
-package src.Refactor.EjerciciosSol;
-
 public class Informe {
     
     private String nombre;

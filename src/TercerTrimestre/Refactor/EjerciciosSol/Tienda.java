@@ -1,5 +1,3 @@
-package src.Refactor.EjerciciosSol;
-
 import java.util.Scanner;
 
 public class Tienda {

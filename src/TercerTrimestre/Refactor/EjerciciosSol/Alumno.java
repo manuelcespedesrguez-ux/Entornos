@@ -1,4 +1,3 @@
-package src.Refactor.EjerciciosSol;
 public class Alumno {
 
     private String nombre;

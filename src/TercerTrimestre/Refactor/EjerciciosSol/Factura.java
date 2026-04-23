@@ -1,5 +1,3 @@
-package src.Refactor.EjerciciosSol;
-
 public class Factura {
     //1. Identifica el bad smell.
     //2. Refactoriza separando logica de calculo y presentacion.

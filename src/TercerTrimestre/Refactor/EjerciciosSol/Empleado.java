@@ -1,5 +1,3 @@
-package src.Refactor.EjerciciosSol;
-
 public class Empleado {
     
     public double calcularSalario(double horas, double precioHora) {

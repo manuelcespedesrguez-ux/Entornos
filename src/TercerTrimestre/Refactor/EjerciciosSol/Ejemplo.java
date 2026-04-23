@@ -1,5 +1,3 @@
-package src.Refactor.EjerciciosSol;
-
 //1. Mejora los nombres.
 //2. Explica que hace el programa.
 //3. Mejora la legibilidad.
